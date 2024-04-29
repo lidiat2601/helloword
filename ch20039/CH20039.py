@@ -1,1 +1,1 @@
-print('Hola soy Lidia con el numero de carnet CH20039')
+print('Hola soy Lidia Cruz con el numero de carnet CH20039')
